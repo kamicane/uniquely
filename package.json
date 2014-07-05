@@ -1,0 +1,21 @@
+{
+  "name": "uniquely",
+  "version": "0.0.0",
+  "description": "create unique identifiers",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamicane/uniquely.git"
+  },
+  "keywords": [
+    "uid",
+    "uuid",
+    "unique"
+  ],
+  "author": "Valerio Proietti <kamicane@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamicane/uniquely/issues"
+  },
+  "homepage": "https://github.com/kamicane/uniquely"
+}
