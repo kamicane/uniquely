@@ -20,6 +20,6 @@
   "homepage": "https://github.com/kamicane/uniquely",
   "dependencies": {
     "es6-util": "0.0.1",
-    "microseconds": "0.0.2"
+    "microseconds": "0.1.0"
   }
 }
