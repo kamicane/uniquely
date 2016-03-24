@@ -1,6 +1,6 @@
 {
   "name": "uniquely",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "create unique identifiers",
   "main": "index.js",
   "repository": {
