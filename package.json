@@ -4,7 +4,7 @@
   "description": "create unique identifiers",
   "main": "lib/index.js",
   "scripts": {
-    "build": "babel src -d lib"
+    "postinstall": "babel src -d lib"
   },
   "repository": {
     "type": "git",
